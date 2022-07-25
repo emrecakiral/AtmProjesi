@@ -1,6 +1,7 @@
 PROGRAM TANITIMI
 
 1-	Programın Amacı
+
 Bu program örnek ATM uygulaması olarak verilerin veri tabanından programa aktarılıp, işlendikten sonra veri tabanında güncellenmesi amacıyla proje ödevi olarak yapılmıştır.
 
 2.1- Son Kullanıcıya Yönelik Tasarım
